@@ -1,0 +1,25 @@
+{
+  "name": "Handsom kanye",
+  "stats": {
+    "hp": 1000,
+    "ac": 100,
+    "speed": 1000
+  },
+  "abilities": {
+    "strength": 1000,
+    "dexterity": 100,
+    "constitution": 1000,
+    "intelligence": 100000000000000000000000000000000000000000000000000000000000000000000000000000000,
+    "wisdom": 1000000000000000000000000000000000000000000000000000000000000000000000000000000000000000,
+    "charisma": 2
+  },
+  "attack": {
+    "name": "pretty boy glare",
+    "damage": 10000
+  },
+  "special": {
+      "name": "the creation of handsom squidward",
+      "description": "The merciful kanye, with his divine hands he bless you with his approval.",
+      "effect": "turns you into handsom squidward"
+  }
+}
