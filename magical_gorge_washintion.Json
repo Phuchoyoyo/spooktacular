@@ -1,0 +1,25 @@
+{
+	"name": "magical gorge washintion",
+	"stats": {
+		"hp": 100000,
+		"ac": 100000,
+		"speed": 100000
+	},
+	"abilities": {
+		"strength": 10000,
+		"dexterity": 10000,
+		"constitution": 10000000000000000000000000000000000000000000000000000000000000,
+		"intelligence": 100000000000,
+		"wisdom": 10000,
+		"charisma": 1000000
+	},
+	"attack": {
+		"name": "first amendments",
+		"damage": 1000
+	},
+	"special": {
+		"name": "The freedom of the United States of America",
+		"description": "Oh, say can you see My stars The night time is almost ours To wander through alleys And look at the bars Night time is almost ours The headlights from passing cars They illuminate my face, and Leave me in the dark The voice of Nirvana says Come as you are And I will The night time is almost ours The sway of the hips and arms Will cradle you from afar They swing till you're tired And send you to Mars Night time is almost ours",
+		"effect": "creates a country"
+	}
+}
